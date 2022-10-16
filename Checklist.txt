@@ -1,0 +1,4 @@
+1 - Criar o arquivo de contexto: \src\context\toast.tsx
+2 - Criar o componente toast: src\components\ToastNotification.tsx
+3 - Importar o ToastProvider no arquivo main.tsx
+4 - Criar os botões para chamar os toasts. Nesse exemplo os botões foram criados em App.tsx
